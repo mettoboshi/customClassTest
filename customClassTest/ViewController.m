@@ -13,6 +13,7 @@
 @property (weak, nonatomic) IBOutlet UILabel *humanField;
 - (IBAction)calc:(id *)sender;
 - (double) catAgeToHumanAge: (double)catAge;
+- (IBAction)bkgTapped:(id)sender;
 
 @end
 
@@ -48,6 +49,10 @@
   }
   
   return age;
+}
+
+- (IBAction)bkgTapped:(id)sender {
+  [self.view endEditing:YES];
 }
 
 - (BOOL)textField:(UITextField *)textField shouldChangeCharactersInRange:(NSRange)range replacementString:(NSString *)string

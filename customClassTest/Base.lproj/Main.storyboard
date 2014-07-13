@@ -57,6 +57,10 @@
                             </button>
                         </subviews>
                         <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                        <gestureRecognizers/>
+                        <connections>
+                            <outletCollection property="gestureRecognizers" destination="w5f-D0-PjG" appends="YES" id="NDC-AZ-39X"/>
+                        </connections>
                     </view>
                     <connections>
                         <outlet property="catField" destination="AGF-lM-76t" id="AWs-Oa-MtT"/>
@@ -64,6 +68,11 @@
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
+                <tapGestureRecognizer id="w5f-D0-PjG">
+                    <connections>
+                        <action selector="bkgTapped:" destination="vXZ-lx-hvc" id="8pp-8o-VQD"/>
+                    </connections>
+                </tapGestureRecognizer>
             </objects>
         </scene>
     </scenes>

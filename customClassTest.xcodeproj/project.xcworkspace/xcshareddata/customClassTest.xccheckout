@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E4467317-C760-41A8-8C92-452D2AA4AF4C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>customClassTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D50C8B1D-43FC-4C2E-B18F-C6569F87191F</key>
+		<string>https://github.com/mettoboshi/customClassTest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>customClassTest.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D50C8B1D-43FC-4C2E-B18F-C6569F87191F</key>
+		<string>../..</string>
+		<key>F83AEC10-2FD5-4AA6-8C95-321692BCB7A4</key>
+		<string>../../customClassTest</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mettoboshi/customClassTest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D50C8B1D-43FC-4C2E-B18F-C6569F87191F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D50C8B1D-43FC-4C2E-B18F-C6569F87191F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>customClassTest</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F83AEC10-2FD5-4AA6-8C95-321692BCB7A4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>customClassTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>

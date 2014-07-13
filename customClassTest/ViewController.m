@@ -9,6 +9,9 @@
 #import "ViewController.h"
 
 @interface ViewController ()
+@property (weak, nonatomic) IBOutlet UITextField *catField;
+@property (weak, nonatomic) IBOutlet UILabel *humanField;
+- (IBAction)calc:(UIButton *)sender;
 
 @end
 
@@ -26,4 +29,6 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)calc:(UIButton *)sender {
+}
 @end
